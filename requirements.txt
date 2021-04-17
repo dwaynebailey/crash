@@ -1,7 +1,7 @@
 Django==3.2
 argparse==1.4.0
 django-appconf==1.0.4
-django-compressor==2.4
+django-compressor==2.4.1
 django-debug-toolbar==3.2.1
 lesscpy==0.14.0
 ply==3.11
