@@ -8,6 +8,6 @@ ply==3.11
 psycopg2==2.8.6
 rcssmin==1.0.6
 rjsmin==1.1.0
-six==1.15.0
+six==1.16.0
 uwsgidecorators-fallback==0.0.3
 wsgiref==0.1.2
